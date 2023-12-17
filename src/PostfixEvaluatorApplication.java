@@ -5,8 +5,8 @@ public class PostfixEvaluatorApplication {
         StringBuffer buffer = new StringBuffer();
         Scanner userInput = new Scanner(System.in);
 
-        System.out.println("Please input a postfix expression element by element" +
-                "that consists of integers(single or two digit) and mathematical operators" +
+        System.out.println("Please input a postfix expression element by element " +
+                "that consists of integers (single or two digit) and mathematical operators " +
                 "(+, -, *, /, ^, and %).");
         System.out.println("Example of a postfix expression:");
         System.out.println("7 8 * 41 + 2 36 % - = (7 * 8) + 41 - (36 % 2) = 56 + 41 - 0 = 95");
