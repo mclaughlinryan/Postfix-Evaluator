@@ -8,6 +8,6 @@ This program evaluates user-input postfix expressions with the use of a stack da
 
 &nbsp;
 
-The user-input postfix expression above is evaluated in the following way:
+The user-input postfix expression above is evaluated as follows:
 
-<img width="1000" alt="postfix evaluator 2" src="https://github.com/mclaughlinryan/Postfix-Evaluator/assets/150348966/80e6218c-a6f8-4fde-98df-3c0a2643520f">
+<img width="800" alt="postfix evaluator 2" src="https://github.com/mclaughlinryan/Postfix-Evaluator/assets/150348966/80e6218c-a6f8-4fde-98df-3c0a2643520f">
